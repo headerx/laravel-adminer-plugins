@@ -23,12 +23,12 @@ This is the contents of the published config file:
 
 ```php
 return [
-        'plugins' => [
-            'AdminerTablesFilter',
-            'AdminerFrames',
-            'AdminerDumpAlter',
-            'AdminerDumpJson',
-            'AdminerJsonColumn',
+    'plugins' => [
+        'AdminerTablesFilter',
+        'AdminerFrames',
+        'AdminerDumpAlter',
+        'AdminerDumpJson',
+        'AdminerJsonColumn',
     ]
 ];
 ```
