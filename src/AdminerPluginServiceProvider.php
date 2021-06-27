@@ -1,6 +1,6 @@
 <?php
 
-namespace Headerx\AdminerPlugin;
+namespace HeaderX\AdminerPlugin;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
