@@ -29,7 +29,7 @@ return [
         'AdminerDumpAlter',
         'AdminerDumpJson',
         'AdminerJsonColumn',
-    ]
+    ],
 ];
 ```
 
