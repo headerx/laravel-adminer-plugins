@@ -1,8 +1,8 @@
 <?php
 
-namespace Headerx\AdminerPlugin\Tests;
+namespace HeaderX\AdminerPlugin\Tests;
 
-use Headerx\AdminerPlugin\AdminerPluginServiceProvider;
+use HeaderX\AdminerPlugin\AdminerPluginServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra

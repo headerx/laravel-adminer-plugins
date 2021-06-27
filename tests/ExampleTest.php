@@ -1,6 +1,6 @@
 <?php
 
-namespace Headerx\AdminerPlugin\Tests;
+namespace HeaderX\AdminerPlugin\Tests;
 
 class ExampleTest extends TestCase
 {
