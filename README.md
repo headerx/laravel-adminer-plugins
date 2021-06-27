@@ -23,14 +23,14 @@ This is the contents of the published config file:
 
 ```php
 return [
+        'plugins' => [
+            'AdminerTablesFilter',
+            'AdminerFrames',
+            'AdminerDumpAlter',
+            'AdminerDumpJson',
+            'AdminerJsonColumn',
+    ]
 ];
-```
-
-## Usage
-
-```php
-$laravel-adminer-plugins = new Headerx\AdminerPlugin();
-echo $laravel-adminer-plugins->echoPhrase('Hello, Spatie!');
 ```
 
 ## Testing
