@@ -2,16 +2,14 @@
 
 namespace Headerx\AdminerPlugin\Tests;
 
-use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Headerx\AdminerPlugin\AdminerPluginServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
     public function setUp(): void
     {
         parent::setUp();
-
     }
 
     protected function getPackageProviders($app)
@@ -23,6 +21,5 @@ class TestCase extends Orchestra
 
     public function getEnvironmentSetUp($app)
     {
-
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-if (!function_exists('adminer_object')) {
+if (! function_exists('adminer_object')) {
     function adminer_object(): AdminerPlugin
     {
         // required to run any plugin
