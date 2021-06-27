@@ -16,7 +16,7 @@ composer require headerx/laravel-adminer-plugins
 
 You can publish the config file with:
 ```bash
-php artisan vendor:publish --provider="Headerx\AdminerPlugin\AdminerPluginServiceProvider" --tag="laravel-adminer-plugins-config"
+php artisan vendor:publish --provider="HeaderX\AdminerPlugin\AdminerPluginServiceProvider" --tag="laravel-adminer-plugins-config"
 ```
 
 This is the contents of the published config file:
