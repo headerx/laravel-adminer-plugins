@@ -12,7 +12,7 @@ if (! function_exists('adminer_object')) {
             include_once "$filename";
         }
 
-        foreach(config('adminer-plugins.plugins') as $plugin){
+        foreach (config('adminer-plugins.plugins') as $plugin) {
             $plugins[] = new $plugin;
         }
 
