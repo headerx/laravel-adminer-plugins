@@ -7,5 +7,5 @@ return [
         'AdminerDumpAlter',
         'AdminerDumpJson',
         'AdminerJsonColumn',
-    ]
+    ],
 ];
