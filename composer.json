@@ -52,7 +52,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Headerx\\AdminerPlugin\\AdminerPluginServiceProvider"
+                "HeaderX\\AdminerPlugin\\AdminerPluginServiceProvider"
             ]
         }
     },
