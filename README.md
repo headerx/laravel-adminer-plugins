@@ -34,7 +34,7 @@ return [
 ```
 
 ## Usage
-- First ensure that that you've set up oncentlin/laravel-adminer [prerequisites](https://github.com/onecentlin/laravel-adminer#prerequisite)
+- First ensure that that you've set up onecentlin/laravel-adminer [prerequisites](https://github.com/onecentlin/laravel-adminer#prerequisite)
 - (Optionally) publish config file with `php artisan vendor:publish --provider="HeaderX\AdminerPlugin\AdminerPluginServiceProvider" --tag="adminer-plugins-config"`
 - That's it! You don't have to do anything else, Adminer will call the [adminer_object()](https://github.com/headerx/laravel-adminer-plugins/blob/a853a2ddf7a3b8f804752b2a5e09e7b772efcfce/src/helper.php#L4) helper on its own.
 
