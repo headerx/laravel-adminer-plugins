@@ -16,8 +16,7 @@
         }
     ],
     "require": {
-        "illuminate/contracts": "^8.37",
-        "onecentlin/laravel-adminer": "^5.3",
+        "onecentlin/laravel-adminer": "^5.4",
         "spatie/laravel-package-tools": "^1.4.3"
     },
     "require-dev": {
