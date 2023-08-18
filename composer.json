@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "onecentlin/laravel-adminer": "^5.4|6.0.0",
-        "spatie/laravel-package-tools": "^1.4.3"
+        "onecentlin/laravel-adminer": ">=5.4",
+        "spatie/laravel-package-tools": ">=1.4.3"
     },
     "require-dev": {
         "brianium/paratest": "^6.2",
